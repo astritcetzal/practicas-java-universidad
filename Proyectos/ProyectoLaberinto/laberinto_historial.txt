@@ -1,0 +1,1 @@
+LL | movimientos: 4 | llego: false
