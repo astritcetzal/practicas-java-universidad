@@ -1,7 +1,7 @@
 # Practicas con JAVA
 ¡Hola! Soy un apasionada por el desarrollo de software y este repositorio es una bitácora de mi evolución técnica. Aquí encontrarás una colección de proyectos y ejercicios desarrollados principalmente en Java, abarcando desde la lógica fundamental hasta sistemas complejos basados en objetos.
 
-# Proeyctos usando java:
+# Otros proyectos en java que puedes ver dando clic a los siguientes links:
 * [Algoritmo-Dijkstra](https://github.com/mateomartin21/Algoritmo-Dijkstra.git)
 * [Sistema Casino](https://github.com/astritcetzal/ProyectoUnidad3.git)
   
