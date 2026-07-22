@@ -5,7 +5,7 @@
 * [Algoritmo-Dijkstra](https://github.com/mateomartin21/Algoritmo-Dijkstra.git)
 * [Sistema Casino](https://github.com/astritcetzal/ProyectoUnidad3.git)
   
-## 🚀 Contenido del Repositorio
+##  Contenido del Repositorio
 El código está organizado en tres grandes etapas de aprendizaje y aplicación:
 
 ## 1. Programación Estructurada
@@ -33,7 +33,7 @@ Algoritmos Avanzados: Implementación de soluciones como el algoritmo de Dijkstr
 
 Herramientas: Uso de Java Swing para interfaces de usuario y manejo de excepciones para robustez.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 Lenguaje principal: Java (JDK 17+)
 
 Entornos: VS Code
@@ -43,7 +43,7 @@ Control de Versiones: Git y GitHub
 Sistemas Operativos de desarrollo: Windows y distribuciones Linux (Fedora)
 
 
-## 📈 Próximos Pasos
+## Próximos Pasos
 Actualmente, sigo expandiendo este repositorio con implementaciones de estructuras de datos más complejas y explorando el desarrollo de aplicaciones distribuidas.
 
 [!TIP]
